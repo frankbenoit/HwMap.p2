@@ -511,29 +511,29 @@
       </instructions>
     </touchpointData>
   </unit>
-  <unit id='201910241457.main' version='1.0.0.2--cKdynh7735K537A5ACG'>
+  <unit id='201910301023.main' version='1.0.0.2--cKdynh7735K53935379'>
     <properties size='2'>
       <property name='org.eclipse.equinox.p2.name' value='HwMapDsl'/>
       <property name='org.eclipse.equinox.p2.type.category' value='true'/>
     </properties>
     <provides size='1'>
-      <provided namespace='org.eclipse.equinox.p2.iu' name='201910241457.main' version='1.0.0.2--cKdynh7735K537A5ACG'/>
+      <provided namespace='org.eclipse.equinox.p2.iu' name='201910301023.main' version='1.0.0.2--cKdynh7735K53935379'/>
     </provides>
     <requires size='1'>
-      <required namespace='org.eclipse.equinox.p2.iu' name='org.chabu.hwmap.feature.feature.group' range='[1.0.0.201910241457,1.0.0.201910241457]'/>
+      <required namespace='org.eclipse.equinox.p2.iu' name='org.chabu.hwmap.feature.feature.group' range='[1.0.0.201910301023,1.0.0.201910301023]'/>
     </requires>
     <touchpoint id='null' version='0.0.0'/>
   </unit>
-  <unit id='201910241457.main.source' version='1.0.0.2--cKdydL7735K537A5ACG'>
+  <unit id='201910301023.main.source' version='1.0.0.2--cKdydL7735K53935379'>
     <properties size='2'>
       <property name='org.eclipse.equinox.p2.name' value='HwMapDsl (Sources)'/>
       <property name='org.eclipse.equinox.p2.type.category' value='true'/>
     </properties>
     <provides size='1'>
-      <provided namespace='org.eclipse.equinox.p2.iu' name='201910241457.main.source' version='1.0.0.2--cKdydL7735K537A5ACG'/>
+      <provided namespace='org.eclipse.equinox.p2.iu' name='201910301023.main.source' version='1.0.0.2--cKdydL7735K53935379'/>
     </provides>
     <requires size='1'>
-      <required namespace='org.eclipse.equinox.p2.iu' name='org.chabu.hwmap.feature.source.feature.group' range='[1.0.0.201910241457,1.0.0.201910241457]'/>
+      <required namespace='org.eclipse.equinox.p2.iu' name='org.chabu.hwmap.feature.source.feature.group' range='[1.0.0.201910301023,1.0.0.201910301023]'/>
     </requires>
     <touchpoint id='null' version='0.0.0'/>
   </unit>
